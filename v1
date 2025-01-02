@@ -1,0 +1,73 @@
+
+**Title**: Flowchart for Urban Mobility Platform  
+
+**Start**  
+⬇️  
+**User Login/Sign-Up**  
+- Input: Email, phone number, or social media login  
+- Output: User profile creation  
+⬇️  
+**Home Screen**  
+Options:  
+1. Book a Ride  
+2. Real-Time Traffic Insights  
+3. Safety Features  
+⬇️  
+
+### **1. Book a Ride**  
+**Input Ride Details**:  
+- Pickup location  
+- Drop-off location  
+- Ride preferences (Eco-friendly, ride-sharing, etc.)  
+⬇️  
+**System Processing**:  
+- Fetch available vehicles  
+- Match with ride-sharing opportunities  
+- Calculate: Cost, Estimated Time, CO2 Emissions  
+⬇️  
+**Display Ride Options**:  
+- Individual rides  
+- Shared rides  
+- Green route suggestions  
+⬇️  
+**Confirm Booking**:  
+- Payment integration  
+⬇️  
+**Ride Tracking**  
+- Live driver tracking  
+- CO2 and distance updates during the trip  
+⬇️  
+**End of Ride**  
+- Display ride summary (time, distance, CO2 saved, safety rating prompt)  
+
+⬆️  
+**Back to Home Screen**  
+
+---
+
+### **2. Real-Time Traffic Insights**  
+**Select Area/Route**  
+⬇️  
+**Display Traffic Data**:  
+- Congestion levels  
+- Alternative routes  
+- Time estimates for each route  
+⬆️  
+**Back to Home Screen**  
+
+---
+
+### **3. Safety Features**  
+**Enable Safety Mode During Ride**  
+- Share ride details with trusted contacts  
+- SOS Panic Button  
+⬇️  
+**Panic Button Activation (if pressed)**  
+- Notify emergency contacts  
+- Share location with local authorities  
+⬆️  
+**Back to Ride Tracking**  
+
+---
+
+**End**  
